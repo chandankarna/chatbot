@@ -2,21 +2,6 @@
 
 ## Overview
 
-Welcome to the Chatbot repository! This project is a chatbot built using React.js, Next.js, and incorporates AI responses with JSON as the data source. It's capable of calculations, remembering conversations, and offers two modes of response: option-wise and typing-wise.
-
-## Features
-
-- Dynamic Calculations
-- Conversation History
-- Reminder System
-- Natural Language Processing (NLP)
-- Interactive Options
-- Visual Feedback during Typing Mode
-- Enhanced Option Mode with Visual Elements
-- User Preferences# Financial Chatbot
-
-## Overview
-
 Welcome to the Financial Chatbot repository! This project is a chatbot developed by Chandan Karna using React.js, Next.js, and incorporates AI responses with JSON as the data source. It's capable of calculations, remembering conversations, and offers two modes of response: option-wise and typing-wise.
 
 ## Features
