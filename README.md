@@ -87,7 +87,7 @@ This project is licensed under the MIT License.
 
 
 **Developed by Chandan Karna**
-LinkedIn: [Chandan-Karna](https://www.linkedin.com/in/chandan-karna/)
+#LinkedIn: [Chandan-Karna](https://www.linkedin.com/in/chandan-karna/)
 
 Feel free to copy and paste this into your project's README.md file on GitHub. If you have any additional information or updates to include, feel free to modify as needed. Happy coding!
 
