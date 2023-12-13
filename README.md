@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Financial Chatbot repository! This project is a chatbot developed by Chandan Karna using React.js, Next.js, and incorporates AI responses with JSON as the data source. It's capable of calculations, remembering conversations, and offers two modes of response: option-wise and typing-wise.
+Welcome to the Financial Chatbot repository! This project is a chatbot developed by [Chandan-Karna](https://www.linkedin.com/in/chandan-karna/) using React.js, Next.js, and incorporates AI responses with JSON as the data source. It's capable of calculations, remembering conversations, and offers two modes of response: option-wise and typing-wise.
 
 ## Features
 
@@ -69,9 +69,5 @@ If you encounter any issues or have suggestions, please open an issue on the Iss
 This project is licensed under the MIT License.
 
 ### Happy Chatbotting! 🤖✨
-
-
-**Developed by Chandan Karna**
-#LinkedIn: [Chandan-Karna](https://www.linkedin.com/in/chandan-karna/)
 
 
