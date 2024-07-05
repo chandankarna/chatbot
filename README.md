@@ -110,12 +110,3 @@ chatbot/
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### Acknowledgments
-
-- **React.js:** For providing a powerful and flexible framework for building the chatbot.
-- **[Any other tools or libraries used]:** Acknowledge any other tools, libraries, or resources used in the project.
-
-```
-
-This Markdown structure includes code blocks for commands and a section for the project directory structure. You can adapt this further based on any additional details or specifics related to your project.
