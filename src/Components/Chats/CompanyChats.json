@@ -1,265 +1,184 @@
 {
-    "responses": [
-      {
-        "query": "Who is the director of Growth Securities?, Who is the director of Growth Securities, who is the director of Growth Securities, Director of Growth Securities, director of Growth Securities, Director, Directors, director, directors",
-        "answer": "Dhruv Gupta and Devansh Gupta are both Directors and Promoters of the Company. Dhruv Gupta is a graduate and a CFA Level 3 Candidate. He has 7 years of experience in managing risk and technology, and he is also involved in seed funding of tech-focused early-stage startups. Dhruv is described as young, dynamic, hardworking, and a dedicated team leader. His involvement and guidance have been instrumental in the growth and development of the company. His varied experience and vision contribute to the unified efforts of the company in achieving the goals set by the management. On the other hand, Devansh Gupta has completed his graduation from Delhi University. He has 6 years of experience in managing business and trading operations at the organization. Initially joining as an additional Director, he was later re-designated as the Managing Director of the Company effective from June 30, 2021. Devansh has played a crucial role in the overall growth of the company through his efforts. Like Dhruv, he also brings his diverse experience and vision to help the company work cohesively towards the common goals set by the management."
-      },
-      {
-        "query": "Mr. Devansh Gupta, Devansh, Director, devansh, Who is Devansh Gupta, who is Devansh Gupta, Who is devansh gupta, Who is devansh gupta, Devansh Gupta, Devansh gupta, Devansh gupta, devansh gupta",
-        "answer": "Mr. Devansh Gupta is the Director and the Promoter of the Company. He has completed his graduation from Delhi University. He has an experience of 6 years in managing the business and trading operations and at the Organization. He has been associated with our Company as an additional Director and later been re-designated as Managing Director of the Company with effect from June 30, 2021. He has been a key player in the overall growth of the Company with his efforts. His varied experience and vision helps our Company work united towards the same goals of the vision set by the management."
-      },
-      {
-        "query": "Mr. Dhruv Gupta, Who is Dhruv Gupta, who is Dhruv Gupta, Who is dhruv gupta, Dhruv, dhruv, dhuruv, dhrub, Dhrub, Who is dhruv gupta, Dhruv Gupta, Dhruv gupta, dhruv gupta, dhrub gupta, Dhrub Gupta",
-        "answer": "Mr. Dhruv Gupta is the Director and the Promoter of the Company. He is a graduate and also a CFA Level 3 Candidate. He has an experience of 7 years in managing risk & technology and he is also involved in Seed Funding of tech focused early stage startup. He is young, dynamic, hardworking and a dedicated team leader. His involvement and guidance has been instrumental in the growth and development of the company. His varied experience and vision helps our Company work united towards the same goals of the vision set by the management."
-      },
-      {
-        "query": "Services from Growth, services from Growth, services Growth, Growth services, products and services, products, products by Growth, Growth products",
-        "answer": "Our products and services are: Algorithmic trading, High frequency trading, Equity trading, Derivative trading, Currency trading, Commodity trading, Mutual funds, IPO, Exchange traded-fund, Knowledge center, Growth Summary, Growth Calculators, Growth Quiz Center, etc, Please explore website to know more."
-      },
-      {
-        "query": "Growth Securities, Growth, growth, Growth securities, growth securities, Growthsec, Growthsec.com, About Growth Securities, about growth securities, about Srowth Securities, about Growth, About Growth",
-        "answer": "Growth Securities is in the business of stock broking (TM of NSE, BSE & MCX), self clearing membership/clearing membership (NCL & ICCL), allied activities and inter alias is providing services like trading in equity & derivatives, commodities & currency. And also provides investment platform for mutual fund, IPO distribution, research, investor awareness & education."
-      },
-      {
-        "query": "How can I open an account with Growth?, How to open a demat account, open demat account, Open demat account, Growth account, Growth demat account, demat account, open account with growth, demat account, account opening",
-        "answer": "To open a demat account with Growth, you can visit our register page at kyc.growthsec.com and follow the account opening process. Alternatively, you can contact our customer support team for assistance."
-      },
-      {
-        "query": "What documents are required for opening an account?, required documents, required documents for demat account, required document account",
-        "answer": "To open an account with Growth, you will need to provide documents such as proof of identity (e.g., Aadhaar card, PAN card), proof of address (e.g., utility bill, bank statement), and passport-size photographs."
-      },
-      {
-        "query": "Fund Transfer, Fund transfer, fund transfer, Transfer funds, transfer funds, Transfer Funds, How to fund transfer, how to fund transfer, Process of fund transfer, process of fund transfer, fund transfer process, Fund transfer process",
-        "answer": "Transfer funds only from the bank account registered with Growth Securities, to know the process please visit out page Fund Transfer."
-      },
-      {
-        "query": "Growth Securities App, Growth Securities app, Growth securities app, growth securities app, Growth app, Growth App, growth app, apps, Apps, Apps, App",
-        "answer": "Android App -- https://play.google.com/store/apps/details?id=com.rs.growth&hl=en&gl=US ,  iOS App -- https://apps.apple.com/in/app/growth-stocks-mutual-funds/id1603052789"
-      },
-      {
-        "query": "",
-        "answer": ""
-      },
-      {
-        "query": "",
-        "answer": ""
-      },
-      {
-        "query": "What is the process for opening a demat account with Growth?, process of opening a demat account with Growth, process of opening account, process of account opening, process of opening an account,",
-        "answer": "Opening a demat account with Growth is simple. You can start by visiting our website at growthsec.com and filling out the online application form. Then, submit the required documents for verification. Once your application is processed and approved, you will receive your demat account details."
-      },
-      {
-        "query": "What are the benefits of opening an account with Growth?, benefits of opening an account with Growth",
-        "answer": "By opening an account with Growth, you can enjoy benefits such as seamless online trading, access to research and market insights, competitive brokerage rates, and personalized customer support."
-      },
-      {
-        "query": "How long does it take to open an account with Growth?, time to open an account with Growth, time open an demat account, what time it takes to open an demat account with Growth, time for demat account",
-        "answer": "The account opening process with Growth typically takes a 24 hours after you fill and submit all the required details. If you stuck or found any problem then don't histate to contact or ask support."
-      },
-      {
-        "query": "Can I open multiple accounts with Growth?, can I open multiple accounts with Growth?, Can I have multiple accounts with Growth?, multiple accounts with Growth?, multiple accounts with Growth, multiple accounts",
-        "answer": "Yes, you can open multiple accounts with Growth. However, each account will be treated as a separate entity and will have its own unique account details."
-      },
-      {
-        "query": "What are the charges for opening an account with Growth?, charges for opening an account, charges for opening an account with Growth",
-        "answer": "It is free to open a demat account with Growth. Please visit to our register page kyc.growthsec.com or contact our customer support team for detailed information on the charges and any promotional offers."
-      },
-      {
-        "query": "How can I fund my account after opening it?, fund account after opening, fund after account opening, fund after account",
-        "answer": "After opening your account with Growth, you can fund it by transferring funds through online banking, NEFT/RTGS, or by writing a check in favor of Growth Securities Ltd. Please ensure to mention your account details while making the payment."
-      },
-      {
-        "query": "Can I trade in stocks and derivatives with Growth?, trade in stocks, stock trading, stocks and derivatives, stock and derivative stock & derivative",
-        "answer": "Yes, you can trade in both stocks and derivatives with Growth. We provide trading facilities for equities, futures, options, and other derivative instruments listed on major stock exchanges."
-      },
-      {
-        "query": "What are the trading platforms offered by Growth?, tradning platform, trading platform at Growth, offered trading platform by growth",
-        "answer": "Growth offers a range of trading platforms to suit your needs. You can choose from our web-based trading platform, mobile trading app, or desktop trading software. Each platform provides a user-friendly interface and essential trading features."
-      },
-      {
-        "query": "What is the minimum account balance requirement?, minimum account balance requirement, balance requirement",
-        "answer": "Growth does not have a specific minimum account balance requirement. However, you need to maintain sufficient funds in your account to cover any applicable charges and margin requirements for trading."
-      },
-      {
-        "query": "Can I transfer my existing portfolio to Growth?, transfer portfolio to Growth, portfolio transfer to Growth",
-        "answer": "Yes, you can transfer your existing portfolio to Growth. We offer a seamless process for transferring your securities from another broker to your Growth account. Contact our customer support team for assistance with the transfer process."
-      },
-      {
-        "query": "Are there any hidden charges or fees?, charges or fees, fees, charges, charge, fee",
-        "answer": "At Growth, we believe in transparency. We strive to provide clear information about our charges and fees. Please refer to our website at growthsec.com or contact our customer support team for detailed information on charges and any applicable fees."
-      },
-      {
-        "query": "Is my account information safe and secure with Growth?, account information safe and secure with Growth",
-        "answer": "Yes, at Growth, we prioritize the security and confidentiality of your account information. We have robust security measures in place to protect your data and employ encryption technology to ensure secure transactions."
-      },
-      {
-        "query": "Can I place after-market orders with Growth?, place after-market orders, place orders after-market",
-        "answer": "No, you can not place after-market orders with Growth. After-market orders do not allow you to place orders outside regular trading hours. Please note that specific rules and timings apply to after-market orders."
-      },
-      {
-        "query": "Can I trade in IPOs with Growth?, IPO with Growth, ipo with Growth, ipo at Growth, apply apo with Growth, ipo from Growth",
-        "answer": "Yes, you can participate in Initial Public Offerings (IPOs) with Growth. We provide IPO investment services that allow you to apply for IPOs and participate in the primary market."
-      },
-      {
-        "query": "What are the trading hours?, trading hour, trading day, trading timing, trading days, trdaing timings",
-        "answer": "The trading hours for different segments may vary. Generally, equity markets in India are open from Monday to Friday, 9:15 AM to 3:30 PM IST. However, it is advisable to refer to the exchange's official website for the most accurate and up-to-date trading hours."
-      },
-      {
-        "query": "How can I contact customer support at Growth?, support team, Support team, Support Team, contact growth, contact Growth, Contact Growth, Growth contact, How to contact Growth?",
-        "answer": "You can contact our customer support team at Growth by visiting our website at growthsec.com and accessing the 'Contact Us' page. You will find multiple channels to reach out to us, including, address, phone support and email"
-      },
-      {
-        "query": "What are the brokerage charges for trading?, brokerage charges for trading, trading brokerage charges, trading brokerage fees, trading brokerage costs, trading brokerage cost",
-        "answer": "The brokerage charges for trading with Growth may vary depending on factors such as the type of instrument, trading volume, and the brokerage plan you choose. Please refer to our website at growthsec.com or contact our customer support team for detailed information on brokerage charges."
-      },
-      {
-        "query": "Can I trade in commodities with Growth?, trade in commodities with Growth",
-        "answer": "Yes! You can trade in commodities with Growth. To know more how you can contact our customer support team for information on the specific trading segments we cater to."
-      },
-      {
-        "query": "Does Growth provide research and analysis reports?, research and analysis reports?, do Growth provide research and analysis reports",
-        "answer": "Yes, Growth provides research and analysis reports to help you make informed trading decisions. We offer market insights, fundamental and technical analysis, stock recommendations, and other valuable research resources."
-      },
-      {
-        "query": "Compliance Officer Details, compliance, Compliance, Compliance Officer, compliance officer, compliance officer details, What is compliance officer details, what is compliance officer details",
-        "answer": "Name: Himanjal Brahmbhatt, Phone: 011-43140000 & Email: Compliance@growthsec.in"
-      },
-      {
-        "query": "Investor Grievance, investor grievance, investor grievance mail id, Investor grievance mail id",
-        "answer": "Mail us at Complaints@growthsec.in"
-      },
-      {
-        "query": "Disclaimer for investors, investors disclaimer, Investors disclaimer, disclaimer, Disclaimer",
-        "answer": "Mutual Fund investments are subject to market risks. Please read all the scheme relates documents carefully before investing. Past performance of the schemes is neither an indicator nor a guarantee of future performance."
-      },
-      {
-        "query": "ATTENTION INVESTORS, attention investors, attention investor, Attention Investor, attention investor, Attention investors, Attention Investors, attention for investors, Attention for investors, Attention for investor",
-        "answer": "Prevent unauthorized transactions in your account~"
-      },
-      {
-        "query": "Company CIN, company CIN, Company cin, company cin",
-        "answer": "CIN: U74899GJ1996PTC119714"
-      },
-      {
-        "query": "Company SEBI Regd No., company SEBI Regd No., company SEBI Regd No, company SEBI regd no, Company SEBI, company SEBI, company SEBI no",
-        "answer": "SEBI Regd No: INZ000299236 (Stock Broker)"
-      },
-      {
-        "query": "SEBI Regd No., SEBI Regd No, SEBI regd no, SEBI Regd no",
-        "answer": "SEBI Regd No: IN-DP-623-2021 (D.P.)"
-      },
-      {
-        "query": "AMFI Regd No., AMFI regd no, AMFI Regd No",
-        "answer": "AMFI Regd. No: (ARN) 189273"
-      },
-      {
-        "query": "Registered Office, Registered office, Company registered office, registered office, company registered office",
-        "answer": "Unit No. 503A-B, 504A-B, 5th Floor, Tower A WTC, Block No. 51, Road 5E, Zone-5, GIFT City, Gandhinagar, Gujarat – 382355"
-      },
-      {
-        "query": "Corporate Office, Corporate office, corporate office, Company corporate office, company corporate office, Company headoffice, Company head office",
-        "answer": "2nd Floor 4/10, Asaf Ali Road, Delhi Gate, New Delhi-110002"
-      },
-      {
-        "query": "Depository Participant No., depository participant no, Depository participant no.",
-        "answer": "Depository participant no. is: 12094100"
-      },
-      {
-        "query": "Growth news, Do Growth Provide any news, today's news, today news, Growth news center, news, any news",
-        "answer": "To access the latest news and updates related to stock market, You can visit growthsec.com/growth-news"
-      },
-      {
-        "query": "",
-        "answer": ""
-      },
-      {
-        "query": "",
-        "answer": ""
-      },
-      {
-        "query": "",
-        "answer": ""
-      },
-      {
-        "query": "",
-        "answer": ""
-      },
-      {
-        "query": "",
-        "answer": ""
-      },
-      {
-        "query": "",
-        "answer": ""
-      },
-      {
-        "query": "",
-        "answer": ""
-      },
-      {
-        "query": "",
-        "answer": ""
-      },
-      {
-        "query": "",
-        "answer": ""
-      },
-      {
-        "query": "",
-        "answer": ""
-      },
-      {
-        "query": "",
-        "answer": ""
-      },
-      {
-        "query": "",
-        "answer": ""
-      },
-      {
-        "query": "",
-        "answer": ""
-      },
-      {
-        "query": "",
-        "answer": ""
-      },
-      {
-        "query": "",
-        "answer": ""
-      },
-      {
-        "query": "",
-        "answer": ""
-      },
-      {
-        "query": "",
-        "answer": ""
-      },
-      {
-        "query": "",
-        "answer": ""
-      },
-      {
-        "query": "",
-        "answer": ""
-      },
-      {
-        "query": "",
-        "answer": ""
-      },
-      {
-        "query": "",
-        "answer": ""
-      },
-      {
-        "query": "",
-        "answer": ""
-      },
-      {
-        "query": "",
-        "answer": ""
-      }
-    ]
-  }
-  
+  "responses": [
+    {
+      "query": "Tell me about Zerodha, zerodha",
+      "answer": "Zerodha is one of India's leading stockbrokers, offering brokerage-free equity investments, retail and institutional broking, and commodities trading. Founded in 2010 by Nithin Kamath, Zerodha has revolutionized the Indian brokerage industry with its innovative technology and transparent pricing."
+    },
+    {
+      "query": "Tell me about ICICI Direct, icici direct",
+      "answer": "ICICI Direct is a prominent stock brokerage firm in India, providing a wide range of financial services including equity, derivatives, mutual funds, IPOs, and more. It is a part of ICICI Securities, which is a subsidiary of ICICI Bank. Known for its robust research and advisory services, ICICI Direct caters to both retail and institutional clients."
+    },
+    {
+      "query": "Tell me about HDFC Securities, hdfc securities",
+      "answer": "HDFC Securities is a leading stock broking company in India, offering a wide range of financial products and services including equity trading, derivatives, mutual funds, IPOs, and fixed income products. It is a subsidiary of HDFC Bank, one of India's largest private sector banks."
+    },
+    {
+      "query": "Tell me about Sharekhan, sharekhan",
+      "answer": "Sharekhan is one of India's oldest and most well-known stock brokerage firms. Founded in 2000, Sharekhan offers a wide range of services including online trading, research and advisory, portfolio management, and mutual fund investments. It was acquired by BNP Paribas in 2016."
+    },
+    {
+      "query": "Tell me about Angel Broking, angel broking",
+      "answer": "Angel Broking is a leading stock brokerage firm in India, offering a wide range of financial services including equity, commodities, and derivatives trading, investment advisory, and portfolio management services. With a strong focus on technology, Angel Broking provides a seamless trading experience through its advanced trading platforms."
+    },
+    {
+      "query": "Tell me about Kotak Securities, kotak securities",
+      "answer": "Kotak Securities, a subsidiary of Kotak Mahindra Bank, is one of India's largest stockbrokers. It offers a wide range of financial products and services including equity and derivatives trading, mutual funds, IPOs, and research and advisory services. Kotak Securities is known for its robust trading platforms and comprehensive research reports."
+    },
+    {
+      "query": "Tell me about Motilal Oswal, motilal oswal",
+      "answer": "Motilal Oswal is a leading stock brokerage firm in India, known for its strong research and advisory services. The company offers a wide range of financial products including equity, derivatives, commodities, mutual funds, and portfolio management services. It has a strong presence in retail and institutional broking."
+    },
+    {
+      "query": "Tell me about SBI Securities, sbi securities",
+      "answer": "SBI Securities, a subsidiary of SBI Capital Markets and part of the State Bank of India group, offers a range of financial services including equity, derivatives, and currency trading, mutual funds, IPOs, and fixed income products. Known for its reliability and strong research capabilities, SBI Securities caters to both retail and institutional investors."
+    },
+    {
+      "query": "Tell me about Upstox, upstox",
+      "answer": "Upstox is a rapidly growing discount brokerage firm in India, offering low-cost trading services in equity, commodities, and derivatives. Founded by Ravi Kumar, Raghu Kumar, and Shrini Viswanath, Upstox focuses on providing an intuitive and seamless trading experience through its advanced trading platforms."
+    },
+    {
+      "query": "Tell me about 5Paisa, 5paisa",
+      "answer": "5Paisa is a popular discount brokerage firm in India, offering affordable brokerage services in equity, derivatives, commodities, and mutual funds. A part of the IIFL Group, 5Paisa provides a user-friendly trading platform and a wide range of financial products to retail investors."
+    },
+    {
+      "query": "Tell me about Edelweiss, edelweiss",
+      "answer": "Edelweiss Broking is a subsidiary of Edelweiss Financial Services, providing a range of financial products and services including equity, derivatives, commodities trading, and investment advisory. Known for its comprehensive research and strong customer service, Edelweiss caters to both retail and institutional clients."
+    },
+    {
+      "query": "Tell me about Reliance Securities, reliance securities",
+      "answer": "Reliance Securities, a part of Reliance Capital, is a full-service brokerage firm offering a range of financial services including equity and derivatives trading, investment advisory, and mutual funds. It provides advanced trading platforms and robust research reports to help clients make informed investment decisions."
+    },
+    {
+      "query": "Tell me about IIFL Securities, iifl securities",
+      "answer": "IIFL Securities is one of India's leading stockbroking firms, offering a wide range of financial products and services including equity, derivatives, commodities trading, mutual funds, and investment advisory. Known for its strong research capabilities and customer service, IIFL Securities caters to both retail and institutional clients."
+    },
+    {
+      "query": "Tell me about Geojit, geojit",
+      "answer": "Geojit Financial Services is a prominent stockbroking firm in India, providing a range of financial products and services including equity, derivatives, mutual funds, and portfolio management. Known for its strong presence in the retail segment, Geojit offers advanced trading platforms and comprehensive research reports."
+    },
+    {
+      "query": "Tell me about Karvy, karvy",
+      "answer": "Karvy Stock Broking Limited is a well-known brokerage firm in India, offering a range of financial services including equity, derivatives, commodities trading, mutual funds, and IPOs. Karvy has a strong presence in both retail and institutional broking, providing robust trading platforms and research reports."
+    },
+    {
+      "query": "Tell me about Fidelity, fidelity",
+      "answer": "Fidelity Investments is a leading international financial services company based in the United States. It offers a wide range of financial products including mutual funds, ETFs, retirement planning, wealth management, and brokerage services. Fidelity is known for its strong research capabilities and customer service."
+    },
+    {
+      "query": "Tell me about Charles Schwab, charles schwab",
+      "answer": "Charles Schwab is a major American brokerage firm providing a variety of financial services including trading in stocks, bonds, mutual funds, and ETFs, as well as retirement planning, wealth management, and banking services. Schwab is renowned for its low-cost trading and robust customer support."
+    },
+    {
+      "query": "Tell me about E*TRADE, e*trade",
+      "answer": "E*TRADE is an American financial services company offering an online trading platform for trading financial assets including common stocks, preferred stocks, futures contracts, exchange-traded funds, options, mutual funds, and fixed-income investments. It is known for its user-friendly interface and educational resources for investors."
+    },
+    {
+      "query": "Tell me about Robinhood, robinhood",
+      "answer": "Robinhood is a financial services company based in the United States, best known for its commission-free trading of stocks, ETFs, options, and cryptocurrencies via a mobile app. Founded by Vladimir Tenev and Baiju Bhatt, Robinhood aims to democratize finance for all."
+    },
+    {
+      "query": "Tell me about TD Ameritrade, td ameritrade",
+      "answer": "TD Ameritrade is a well-known brokerage firm in the United States offering a comprehensive suite of financial services including online stock trading, long-term investing, and retirement planning. TD Ameritrade is known for its powerful trading platforms and extensive educational resources."
+    },
+    {
+      "query": "Tell me about Merrill Lynch, merrill lynch",
+      "answer": "Merrill Lynch is a wealth management division of Bank of America. It provides investment and wealth management services, including financial planning and advice, wealth management, banking, credit and lending, and other services. Merrill Lynch is known for its extensive research and advisory services."
+    },
+    {
+      "query": "Tell me about Interactive Brokers, interactive brokers",
+      "answer": "Interactive Brokers is an American multinational brokerage firm. It operates the largest electronic trading platform in the U.S. by a number of daily average revenue trades. The company offers trading in stocks, options, futures, forex, bonds, and funds. It is known for its advanced trading tools and low-cost trading."
+    },
+    {
+      "query": "Tell me about Vanguard, vanguard",
+      "answer": "Vanguard is one of the world's largest investment companies, offering a wide range of investment products including mutual funds, ETFs, and brokerage services. Vanguard is known for its low-cost index funds and strong emphasis on long-term investing."
+    },
+    {
+      "query": "Tell me about JPMorgan Chase, jpmorgan chase",
+      "answer": "JPMorgan Chase is a global leader in financial services, offering solutions in investment banking, financial services for consumers and businesses, financial transaction processing, asset management, and private equity. The firm's brokerage services are provided under the J.P. Morgan brand."
+    },
+    {
+      "query": "Tell me about Saxo Bank, saxo bank",
+      "answer": "Saxo Bank is a Danish investment bank specializing in online trading and investment. It offers trading in stocks, CFDs, forex, futures, options, and other derivatives via its advanced trading platforms. Saxo Bank is known for its global reach and diverse range of financial products."
+    },
+    {
+      "query": "Tell me about DEGIRO, degiro",
+      "answer": "DEGIRO is a Dutch discount broker that provides an online trading platform for investing in financial assets including stocks, bonds, options, and ETFs. Known for its low-cost trading fees, DEGIRO has a strong presence in Europe and offers access to a wide range of global markets."
+    },
+    {
+      "query": "Tell me about Plus500, plus500",
+      "answer": "Plus500 is an Israeli-based international financial firm providing online trading services in CFDs on a variety of financial instruments including forex, commodities, cryptocurrencies, ETFs, options, and indices. Plus500 is known for its easy-to-use trading platform and competitive spreads."
+    },
+    {
+      "query": "Tell me about IG Group, ig group",
+      "answer": "IG Group is a UK-based company providing online trading services in financial derivatives such as CFDs and financial spread betting, and as of 2014, stockbroking to retail traders. IG Group is known for its robust trading platform and extensive market coverage."
+    },
+    {
+      "query": "Tell me about CMC Markets, cmc markets",
+      "answer": "CMC Markets is a UK-based financial services company offering online trading in shares, spread betting, and CFDs on a wide range of financial markets. Known for its advanced trading platforms and comprehensive research tools, CMC Markets serves both retail and institutional clients."
+    },
+    {
+      "query": "Tell me about Alpari, alpari",
+      "answer": "Alpari is a global forex and CFDs broker providing online trading services. Founded in 1998, Alpari offers a wide range of trading instruments, including forex, metals, commodities, and indices. The company is known for its user-friendly trading platforms and extensive educational resources."
+    },
+    {
+      "query": "Tell me about Hargreaves Lansdown, hargreaves lansdown",
+      "answer": "Hargreaves Lansdown is a British financial service company based in Bristol, England. It provides investment services for individuals and corporates, including stockbroking, wealth management, financial planning, and retirement solutions. The company is known for its comprehensive investment platform and high-quality customer service."
+    },
+    {
+      "query": "Tell me about Rakuten Securities, rakuten securities",
+      "answer": "Rakuten Securities is a Japanese brokerage firm offering a wide range of financial services, including trading in stocks, forex, futures, options, and mutual funds. It is part of the Rakuten Group and is known for its competitive pricing and advanced trading platforms."
+    },
+    {
+      "query": "Tell me about SBI Securities, sbi securities",
+      "answer": "SBI Securities, a subsidiary of State Bank of India, offers a range of financial services including online trading, IPOs, mutual funds, and research reports. It provides a robust trading platform and is known for its strong market presence and reliability."
+    },
+    {
+      "query": "Tell me about Religare Broking, religare broking",
+      "answer": "Religare Broking is an Indian stock brokerage company offering a wide range of financial services including equity and commodity trading, depository services, portfolio management, and investment advisory. It is known for its personalized services and comprehensive market research."
+    },
+    {
+      "query": "Tell me about Sharekhan, sharekhan",
+      "answer": "Sharekhan is one of India’s leading brokerage firms offering a wide range of investment solutions including stock trading, mutual funds, commodities, and portfolio management. Sharekhan is known for its robust trading platforms, extensive research, and customer service."
+    },
+    {
+      "query": "Tell me about Zacks Trade, zacks trade",
+      "answer": "Zacks Trade is an American online brokerage firm offering a range of investment services including trading in stocks, options, bonds, and mutual funds. It is known for its comprehensive research tools and competitive pricing structure."
+    },
+    {
+      "query": "Tell me about Nomura Securities, nomura securities",
+      "answer": "Nomura Securities is a Japanese financial holding company and a principal member of the Nomura Group. It offers investment banking, retail brokerage, wealth management, and asset management services. Nomura is recognized for its extensive global reach and expertise in financial markets."
+    },
+    {
+      "query": "Tell me about Macquarie Group, macquarie group",
+      "answer": "Macquarie Group is an Australian multinational independent investment bank and financial services company. It provides a range of services including asset management, retail and business banking, wealth management, leasing, and asset financing. Macquarie is known for its strong global presence and diverse service offerings."
+    },
+    {
+      "query": "Tell me about CLSA, clsa",
+      "answer": "CLSA is an investment bank and stock brokerage firm, headquartered in Hong Kong. It provides services including equity broking, corporate finance, and asset management. CLSA is renowned for its research and analysis on Asian markets."
+    },
+    {
+      "query": "Tell me about Maybank Kim Eng, maybank kim eng",
+      "answer": "Maybank Kim Eng is the investment banking and securities arm of Maybank, one of Asia’s leading banking groups. It offers a wide range of financial services including retail broking, institutional securities, investment banking, and asset management. The firm is known for its strong regional presence in Asia."
+    },
+    {
+      "query": "Tell me about Daiwa Securities, daiwa securities",
+      "answer": "Daiwa Securities Group is one of the largest investment banks in Japan and a leading player in the global financial services industry. It provides comprehensive financial services including retail, wholesale, and investment banking. Daiwa is known for its strong research capabilities and extensive network."
+    },
+    {
+      "query": "Tell me about ABN AMRO, abn amro",
+      "answer": "ABN AMRO is a Dutch bank offering a range of financial services including retail banking, corporate and institutional banking, private banking, and asset management. The bank provides robust brokerage services and is known for its strong client relationships and financial expertise."
+    },
+    {
+      "query": "Tell me about Bank of America Merrill Lynch, bank of america merrill lynch",
+      "answer": "Bank of America Merrill Lynch is the corporate and investment banking division of Bank of America. It offers a wide range of services including mergers and acquisitions, capital markets, lending, trading, risk management, and brokerage services. The firm is known for its global reach and comprehensive financial solutions."
+    },
+    {
+      "query": "Tell me about Credit Suisse, credit suisse",
+      "answer": "Credit Suisse is a leading global wealth manager and investment bank headquartered in Zurich, Switzerland. It offers a range of services including investment banking, private banking, asset management, and retail banking. Credit Suisse is known for its strong expertise in financial advisory and global market presence."
+    },
+    {
+      "query": "Tell me about UBS, ubs",
+      "answer": "UBS is a Swiss multinational investment bank and financial services company. It offers wealth management, asset management, and investment banking services. UBS is renowned for its strong client focus, global presence, and extensive research capabilities."
+    }
+  ]
+}
